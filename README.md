@@ -1,4 +1,1 @@
-<center>
-<br>
-<body>
-👷** Be right back!**
+👷 Be right back!
