@@ -1,2 +1,2 @@
-# 👷 BE RIGHT BACK.
+# BE RIGHT BACK.
 Jessica's website 
